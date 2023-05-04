@@ -8,6 +8,9 @@ Tetris game created with Javascript almost exclusively.
 - The OG Tetris soundtrack
 - fx
 
-![image](https://user-images.githubusercontent.com/53833032/236265624-3a4b6f46-7efd-4485-a2bf-e00fe249d729.png)
+
+![tetrisfail](https://user-images.githubusercontent.com/53833032/236268727-90705e62-bf0a-4ad3-addc-de961028026c.gif)
+
+
 
 Thanks to [Michael Karen](https://michael-karen.medium.com/learning-modern-javascript-with-tetris-92d532bcd057?sk=a7c22e45395da8322fc55bf3b23a309d) for the tutorial
